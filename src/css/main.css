@@ -6,21 +6,22 @@ body
 .box
 {
 background-color: tomato;
-width: 2000px;
-height: 800px;
-margin: auto;
+width: 80%;
+height: 90%;
 text-align: center;
-margin-top: 50px;
-align-items: center;
+margin-top: 40px;
+margin-left: auto;
+margin-right: auto;
+margin-bottom: 40px;
 }
 
 .bio
 {
     font-family: Arial, sans-serif;
-    font-size: 25px;
+    font-size: 30%;
     color: white;
     height: auto;
-    width: 93%;
+    width: 90%;
     margin-left: auto;
     margin-right: auto;
 }
@@ -35,20 +36,20 @@ align-items: center;
 .name
 {
     font-family: 'Helvetica Neue', sans-serif;
-    font-size: 50px;
+    font-size: 50%;
     color: white;
 }
 
 .email
 {
     font-family: 'Helvetica Neue', sans-serif;
-    font-size: 40px;
+    font-size: 50%;
     color: white;
 }
 
 .github
 {
     font-family: 'Helvetica Neue', sans-serif;
-    font-size: 35px;
+    font-size: 40%;
     color: black;
 }
