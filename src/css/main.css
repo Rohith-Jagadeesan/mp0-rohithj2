@@ -1,1 +1,50 @@
-/* Your CSS here. */
+body
+{
+    background-color: whitesmoke
+}
+
+.box
+{
+background-color: tomato;
+width: 2000px;
+height: auto;
+margin: auto;
+text-align: center;
+margin-top: 50px;
+}
+.bio
+{
+    font-family: Arial, sans-serif;
+    font-size: 25px;
+    color: white;
+    height: auto;
+    width: 93%;
+    margin-left: auto;
+}
+.pic
+{
+    margin-top: 20px;
+    width: 150px;
+    height: 150px;
+}
+
+.name
+{
+    font-family: 'Helvetica Neue', sans-serif;
+    font-size: 50px;
+    color: white;
+}
+
+.email
+{
+    font-family: 'Helvetica Neue', sans-serif;
+    font-size: 40px;
+    color: white;
+}
+
+.github
+{
+    font-family: 'Helvetica Neue', sans-serif;
+    font-size: 35px;
+    color: black;
+}
